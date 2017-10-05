@@ -1,0 +1,1 @@
+ A estos puntos se los llaman ceros o raíces. Podés asociarlo al hecho de que están ligados al suelo, al nivel del mismo (altura cero), enraizando a la gráfica tal como sucede en los árboles o plantas terrestres. 
