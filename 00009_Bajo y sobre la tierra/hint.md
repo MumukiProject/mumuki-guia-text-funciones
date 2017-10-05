@@ -1,0 +1,3 @@
+Al igual que para el Dominio, para definir el **conjunto de positividad** basta con nombrar el primer y el último elemento del intervalo en que la gráfica se mantiene por arriba de la tierra. Si hay más de un intervalo en que sucede esto, escribilos por separado.
+
+Lo mismo se cumple para el conjunto de negatividad, definiendo el primer y último punto donde los carritos pasarán por debajo de la tierra. 
