@@ -1,0 +1,1 @@
+Tené en cuenta que la palabra _"global"_ abarca el total de un conjunto de partes, sin dividirlo. 
