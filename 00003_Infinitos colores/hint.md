@@ -1,0 +1,1 @@
+Mencionando la longitud de onda más baja y más alta, ya se consideran todos los valores intermedios. 
