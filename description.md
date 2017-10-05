@@ -1,0 +1,5 @@
+El reconocido **Parque de la Cota** ha decidido agregar una nueva montaña rusa más osada y colorida que sus otras cuatro atracciones :roller_coaster:.
+
+Por empezar, han realizado distintos planos, combinando colores, alturas y otras cuestiones, en los que se debe adjuntar dicha información. Y como la opinión del cliente es extremadamente valiosa para esta empresa que no para de crecer, necesitan de tu ayuda para ultimar algunos detalles. 
+
+¡Empecemos! :grin:
