@@ -1,0 +1,1 @@
+Fijate que las raíces coinciden con los puntos donde estos segmentos de recorrido pasan de un conjunto al otro. 
