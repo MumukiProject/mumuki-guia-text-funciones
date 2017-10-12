@@ -1,1 +1,1 @@
-Fijate que las raíces coinciden con los puntos donde estos segmentos de recorrido pasan de un conjunto al otro. 
+Fijate que las raíces coinciden con los puntos donde estos segmentos de recorrido pasan de un conjunto al otro. Podés usarlas como referencia para armar los intervalos que te pedimos.
