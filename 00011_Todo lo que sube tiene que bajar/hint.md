@@ -1,0 +1,1 @@
+Podés definirlos nuevamente mencionando la primer y última ubicación entre las que el recorrido sube o baja. 
