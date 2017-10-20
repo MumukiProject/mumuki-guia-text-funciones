@@ -3,4 +3,4 @@ Como ya te adelantamos, esta montaña rusa será de muchos colores. Ese conjunto
 Escribí el **dominio** para el documento del siguiente plano. 
 
 Obs: Cambiar "llamaremos"por "el dominio es..."
-**Poner pequenia intro contando.**
+**Poner pequeña intro contando.**
