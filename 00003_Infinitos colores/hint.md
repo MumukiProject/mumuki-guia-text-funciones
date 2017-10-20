@@ -1,1 +1,1 @@
-Mencionando la longitud de onda más baja y más alta, ya se consideran todos los valores intermedios. 
+Mencionando la ubicación del comienzo y la del final del recorrido, quedan considerados todos los valores intermedios. 

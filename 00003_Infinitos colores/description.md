@@ -1,6 +1,6 @@
 _opc 1: agregar un problema antes que tenga dominio continuo sin hablar de longitu de onda_
 _opc 2: explicar mejor longitud de onda antes_ 
-opc 3: Plan B - cambiar dominio continuo usando distancia *a la entrada, y poner la entrada en un punto x, con recorrido a izquierda y a derecha*
+*opc 3: Plan B - cambiar dominio continuo usando distancia a la entrada, y poner la entrada en un punto x, con recorrido a izquierda y a derecha*
 
 Para hacerle honor a su nombre, los diseñadores del Parque de la Cota propusieron un modelo que contemple todos los colores visibles. 
 
