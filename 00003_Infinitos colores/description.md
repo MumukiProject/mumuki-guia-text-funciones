@@ -6,7 +6,8 @@ Para hacerle honor a su nombre, los diseñadores del Parque de la Cota propusier
 
 Como es imposible nombrar todas las tonalidades existentes, cambiaremos la idea de dominio.
 
-Idea: usar las "distancias"/ubicaciones del comienzo y del final del recorrido "hasta/con respecto a" la entrada. 
+Idea: usar las "distancias"/ubicaciones del comienzo y del final del recorrido "hasta/con respecto a" la entrada.
+"Ya que el tiempo transcurre continuamente durante éste intervalo, no podemos escribir cada posible entrada, sólo el valor inicial y el valor final."
 
 
 basta con definir el dominio nombrando al primero y al último color usados, diferenciándolos por su longitud de onda asociada. 
