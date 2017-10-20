@@ -5,9 +5,8 @@ opc 3: Plan B - cambiar dominio continuo usando distancia a la entrada, y poner 
 Para hacerle honor a su nombre, los diseñadores del Parque de la Cota propusieron un modelo que contemple todos los colores visibles. 
 
 Como es imposible nombrar todas las tonalidades existentes, cambiaremos la idea de dominio.
-Ahora, el dominio es 
 
-
+Idea: usar las "distancias"/ubicaciones del comienzo y del final del recorrido "hasta/con respecto a" la entrada. 
 
 
 basta con definir el dominio nombrando al primero y al último color usados, diferenciándolos por su longitud de onda asociada. 
