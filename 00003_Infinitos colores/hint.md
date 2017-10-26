@@ -1,1 +1,1 @@
-Mencionando la ubicación del comienzo y la del final del recorrido, quedan considerados todos los valores intermedios. 
+Como la ubicación cambia continuamente, no podemos escribir cada posible entrada, sólo el valor inicial y el valor final del recorrido.
