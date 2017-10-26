@@ -3,4 +3,4 @@ Como vimos, hay distintos tipos de dominios. Pasamos de usar solo algunos colore
 
 Pero entonces, ¿qué es el dominio?
 
-El dominio de la función es el conjunto de todos los posibles valores que la función acepta como entrada. 
+El dominio de la función es el conjunto de todos los valores posibles que la función acepta como entrada. 
