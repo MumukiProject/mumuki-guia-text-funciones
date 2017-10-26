@@ -11,7 +11,7 @@ Definiciones:
 3) El conjunto de todos los posibles valores de ingreso que la función acepta [me gusta].
 
 
----- estas no ---
+--- este es Juan vs éste es el auto de Juan.  éstas no ---
 2) Es el conjunto de existencia de ella misma, es decir, los valores para los cuales la función está definida.
 4) El dominio de definición de una función f:X→Y se define como el conjunto X de todos los elementos x para los cuales la función f asocia algún y perteneciente al conjunto Y de llegada, llamado codominio. [me perdiste]
 https://www.montereyinstitute.org/courses/Algebra1/COURSE_TEXT_RESOURCE/U03_L2_T2_text_final_es.html
