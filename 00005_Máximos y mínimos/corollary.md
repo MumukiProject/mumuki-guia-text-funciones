@@ -1,0 +1,1 @@
+Como habrás visto, cada punto relaciona la ubicación y la altura en la que se encuentra. Estos dos valores se los llama coordenadas del punto y son necesarios para diferenciarlo de cualquier otro punto. 
