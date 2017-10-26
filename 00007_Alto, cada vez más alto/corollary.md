@@ -1,1 +1,2 @@
+¿Qué diferencia hay entonces entre estos máximos y mínimos globales con los anteriores locales? :thought_balloon:
 Tené en cuenta que la palabra _"global"_ abarca el total de un conjunto de partes, sin dividirlo; mientras que _"local"_ solo afecta a un área determinada. 
