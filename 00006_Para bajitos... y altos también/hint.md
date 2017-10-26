@@ -1,0 +1,1 @@
+Para cada punto tenés que anotar los dos valores que lo distinguen (ubicación y altura). 
