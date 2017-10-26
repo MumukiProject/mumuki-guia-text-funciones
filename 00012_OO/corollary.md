@@ -1,2 +1,1 @@
 Este punto lo llamamos ordenada al origen por estar alineado con el punto donde comienza todo esto (el "anclaje" de la pared al piso), origen o punto O.
-REVISAR
