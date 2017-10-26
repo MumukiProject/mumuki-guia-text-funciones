@@ -1,1 +1,1 @@
-A estos puntos se los llaman **máximos o mínimos locales** **por ser los más altos o los más bajos en comparación con los puntos _vecinos_. 
+A estos puntos se los llaman **máximos o mínimos locales** por ser los más altos o los más bajos en comparación con los puntos _vecinos_. 
